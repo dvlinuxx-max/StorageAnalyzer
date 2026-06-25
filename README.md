@@ -31,8 +31,7 @@ pip install -r requirements.txt
 python StorageAnalyzer.py
 ```
 
-او شغل الملف Run.bat بنقرة مزدوجة.
-
+او شغل الملف Run.bat
 ## الرخصة
 
 هذا المشروع مفتوح المصدر تحت رخصة MIT. راجع ملف LICENSE.
